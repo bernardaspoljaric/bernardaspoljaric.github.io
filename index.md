@@ -4,9 +4,12 @@
 
 ### GAMES 
 
-[R e f l e c t i o n s](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)
+<img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png?raw=true"/>
+<br>
+This game was made in 48h during Global game Jam 2022 held in Novska, Croatia.
+<br>
+My job: Programming
 
 [Build The City](https://bernarda.itch.io/build-the-city)
 <br>
