@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Build The City](https://bernarda.itch.io/build-the-city)
+<img src="https://img.itch.zone/aW1hZ2UvMTI1MTk5MS83Mjk5MjA4LnBuZw==/347x500/h1M1yC.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
