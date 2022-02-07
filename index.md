@@ -15,10 +15,10 @@
 This project was created in 5 days period during Unity education at PISMO Novska 
 
 ---
-[Project 2 Title](http://example.com/)
+[Tic-Tac-Toe]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
-[Project 3 Title](http://example.com/)
+[NotAgain](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
