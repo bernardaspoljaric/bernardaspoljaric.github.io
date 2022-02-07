@@ -4,37 +4,38 @@
 
 ### GAMES 
 
-[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)
+<b>[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
+<br>
 <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png?raw=true"/>
 <br>
 This game was made in 48h during Global game Jam 2022 held in Novska, Croatia.
 <br>
 My job: Programming
 
-[Build The City](https://bernarda.itch.io/build-the-city)
+<b>[Build The City](https://bernarda.itch.io/build-the-city)<b>
 <br>
 <img src="images/BuildTheCity.PNG?raw=true"/>
 <br>
 This project was created in 5 days period during Unity education at PISMO Novska 
 
 ---
-[Tic-Tac-Toe]
+<b>Tic-Tac-Toe]</b>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
----
-[NotAgain](http://example.com/)
+  
+<b>[NotAgain](http://example.com/)</b>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### LEVEL DESIGN
 
-[Tag](https://adamas2021.itch.io/tag)
+  <b>[Tag](https://adamas2021.itch.io/tag)</b>
 <br>
 <img src="images/Tag.PNG?raw=true"/>
 <br>
 This game is made for our weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
 
-[Look For Luka](http://example.com/)
+  <b>[Look For Luka](http://example.com/)</b>
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
