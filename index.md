@@ -2,11 +2,13 @@
 
 ---
 
-### Category Name 1 
+### GAMES 
 
 [Build The City](https://bernarda.itch.io/build-the-city)
 <br>
 <img src="https://img.itch.zone/aW1nLzcyOTYyMTUucG5n/315x250%23c/nPLg4D.png"/>
+<br>
+This project was created in 5 days period during Unity education at PISMO Novska 
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
