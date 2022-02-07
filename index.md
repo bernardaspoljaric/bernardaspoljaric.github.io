@@ -43,13 +43,9 @@ This game is made for weekly project with theme "Strange Power-Ups" during the U
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
 
-
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
-
+### WALLPAPER
+<img src="images/Tag.PNG?raw=true"/>
 
 
 
