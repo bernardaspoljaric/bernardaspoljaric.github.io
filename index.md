@@ -29,15 +29,21 @@ Mobile game for Android made during Unity education at PISMO Novska
 ### LEVEL DESIGN
 
   <b>[Tag](https://adamas2021.itch.io/tag)</b>
-<br>
-<img src="images/Tag.PNG?raw=true"/>
-<br>
-This game is made for weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
+  <br>
+  <img src="images/Tag.PNG?raw=true"/>
+  <br>
+  This game is made for weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
+  <br>
+  <b>Task: </b> Level design
 
   <b>[Look For Luka](https://loki2379.itch.io/look-for-luka)</b>
-<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<br>
+  <br>
+  <img src="https://img.itch.zone/aW1hZ2UvMTM4OTczMi84MDk3NDcwLnBuZw==/347x500/h9if1K.png?raw=true"/>
+  <br>
+  This game is made as a project to represent a potential renovation of a certain part of the town 
+  <br>
+  <b>Task: </b> Level design
+  
 
 ---
 ### WALLPAPER
