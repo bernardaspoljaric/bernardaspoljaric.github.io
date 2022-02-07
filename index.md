@@ -21,11 +21,11 @@ This project was created in 5 days period during Unity education at PISMO Novska
 <b>Tic-Tac-Toe</b>
 <br>
 <img src="images/Tic-Tac-Toe.PNG?raw=true"/>
-  <br>
+<br>
 Mobile game for Android made during Unity education at PISMO Novska
   
 <b>[NotAgain](http://example.com/)</b>
-  <br>
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
