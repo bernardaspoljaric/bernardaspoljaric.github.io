@@ -25,6 +25,7 @@ This project was created in 5 days period during Unity education at PISMO Novska
 Mobile game for Android made during Unity education at PISMO Novska
   
 <b>[NotAgain](http://example.com/)</b>
+  <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
