@@ -4,7 +4,7 @@
 
 ### GAMES 
 
-[Build The City](https://bernarda.itch.io/build-the-city)
+<b>[Build The City]</b>(https://bernarda.itch.io/build-the-city)
 <br>
 <img src="images/BuildTheCity.PNG?raw=true"/>
 <br>
