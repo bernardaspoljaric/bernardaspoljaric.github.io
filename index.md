@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Build The City](https://bernarda.itch.io/build-the-city)
-<img src="https://img.itch.zone/aW1hZ2UvMTI1MTk5MS83Mjk5MjA4LnBuZw==/347x500/h1M1yC.png"/>
+<img src="https://img.itch.zone/aW1nLzcyOTYyMTUucG5n/315x250%23c/nPLg4D.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
