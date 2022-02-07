@@ -18,10 +18,9 @@ My job: Programming
 <br>
 This project was created in 5 days period during Unity education at PISMO Novska 
 
----
 <b>Tic-Tac-Toe</b>
 <br>
-<img src="images/Tic-Tac-Toe?raw=true"/>
+<img src="images/Tic-Tac-Toe.PNG?raw=true"/>
   <br>
 Mobile game for Android made during Unity education at PISMO Novska
   
