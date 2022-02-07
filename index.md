@@ -4,6 +4,10 @@
 
 ### GAMES 
 
+[R e f l e c t i o n s](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 [Build The City](https://bernarda.itch.io/build-the-city)
 <br>
 <img src="images/BuildTheCity.PNG?raw=true"/>
@@ -21,13 +25,17 @@ This project was created in 5 days period during Unity education at PISMO Novska
 
 ### LEVEL DESIGN
 
-[Tag](/pdf/sample_presentation.pdf)
+[Tag](https://adamas2021.itch.io/tag)
 <br>
-<img src="https://img.itch.zone/aW1nLzc2NTMzOTEucG5n/original/RLjOzp.png"/>
+<img src="images/Tag.PNG?raw=true"/>
 <br>
 This game is made for our weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
 
-- [Project 2 Title](http://example.com/)
+[Look For Luka](http://example.com/)
+<br>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
