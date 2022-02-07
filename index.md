@@ -36,12 +36,13 @@ Mobile game for Android made during Unity education at PISMO Novska
 <br>
 <img src="images/Tag.PNG?raw=true"/>
 <br>
-This game is made for our weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
+This game is made for weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
 
-  <b>[Look For Luka](http://example.com/)</b>
+  <b>[Look For Luka](https://loki2379.itch.io/look-for-luka)</b>
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br>
+
 
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
