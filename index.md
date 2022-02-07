@@ -4,14 +4,14 @@
 
 ### GAMES 
 
-<b>[Build The City](https://bernarda.itch.io/build-the-city)</b>
+[Build The City](https://bernarda.itch.io/build-the-city)
 <br>
 <img src="images/BuildTheCity.PNG?raw=true"/>
 <br>
 This project was created in 5 days period during Unity education at PISMO Novska 
 
 ---
-<b>[Tag](/pdf/sample_presentation.pdf)</b>
+[Tag](/pdf/sample_presentation.pdf)
 <br>
 <img src="https://img.itch.zone/aW1nLzc2NTMzOTEucG5n/original/RLjOzp.png"/>
 <br>
