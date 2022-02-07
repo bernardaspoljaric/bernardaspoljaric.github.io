@@ -14,6 +14,8 @@ This project was created in 5 days period during Unity education at PISMO Novska
 <b>[Tag](/pdf/sample_presentation.pdf)</b>
 <br>
 <img src="https://img.itch.zone/aW1nLzc2NTMzOTEucG5n/original/RLjOzp.png"/>
+<br>
+This game is made for our weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
 
 ---
 [Project 3 Title](http://example.com/)
