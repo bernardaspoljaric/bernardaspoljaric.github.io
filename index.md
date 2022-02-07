@@ -10,7 +10,7 @@
 <br>
 This game was made in 48h during Global game Jam 2022 held in Novska, Croatia.
 <br>
-My job: Programming
+<b>Task: </b> Programming
 
 <b>[Build The City](https://bernarda.itch.io/build-the-city)<b>
 <br>
@@ -20,14 +20,10 @@ This project was created in 5 days period during Unity education at PISMO Novska
 
 <b>Tic-Tac-Toe</b>
 <br>
-<img src="images/Tic-Tac-Toe.PNG?raw=true"/>
+<img src="images/Tic-Tac-Toe.PNG"/>
 <br>
 Mobile game for Android made during Unity education at PISMO Novska
   
-<b>[NotAgain](https://njoknjok.itch.io/not-again)</b>
-<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 ### LEVEL DESIGN
