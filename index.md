@@ -9,7 +9,8 @@
 <style>
 div.gallery {
   margin: 5px;
-  width: 200px;
+  float: left;
+  width: 300px;
 }
 div.gallery img {
   width: 100%;
@@ -19,13 +20,13 @@ div.gallery img {
 
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
-    <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png" width="1920" height="1080">
+    <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png">
-    <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png" width="1920" height="1080">
+    <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png">
   </a>
 </div>
 <div>
