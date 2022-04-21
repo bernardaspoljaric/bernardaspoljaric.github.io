@@ -45,17 +45,6 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;">[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
-<style>
-div.gallery {
-  margin: 5px;
-  float: left;
-  width: 500px;
-}
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-</style>
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
     <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png" width="600" height="400">
@@ -85,17 +74,6 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;">[Build The City](https://bernarda.itch.io/build-the-city)<b>
 <br>
-<style>
-div.gallery {
-  margin: 5px;
-  float: left;
-  width: 500px;
-}
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-</style>
 <div class="gallery">
   <a target="_blank" href="https://bernarda.itch.io/build-the-city">
     <img src="images/BuildTheCity.PNG" width="600" height="400">
@@ -125,17 +103,6 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;"> Run, ball, ruuun<b>
 <br>
-<style>
-div.gallery {
-  margin: 5px;
-  float: left;
-  width: 500px;
-}
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-</style>
 <div class="gallery">
     <img src="images/BallGame_Start.PNG" width="600" height="400">
 </div>
@@ -161,17 +128,6 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;">Tic-Tac-Toe</b>
 <br>
- <style>
-div.gallery {
-  margin: 5px;
-  float: left;
-  width: 200px;
-}
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-</style>
 <div class="gallery">
     <img src="images/Tic-Tac-Toe.PNG" width="600" height="400">
 </div>
