@@ -128,11 +128,11 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;">Quiz</b>
 <br>
-<div style="margin: 5px;float: left;width: 400px;">
+<div class="gallery">
     <img src="images/Quiz_Start.PNG" width="600" height="400">
 </div>
 
-<div style="margin: 5px;float: left;width: 400px;">
+<div class="gallery">
     <img src="images/Quiz_Game.PNG" width="600" height="400">
 </div>
 <div>
@@ -153,11 +153,11 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;">Tic-Tac-Toe</b>
 <br>
-<div style="margin: 5px;float: left;width: 400px;">
+<div class="gallery">
     <img src="images/Tic-Tac-Toe.PNG" width="600" height="400">
 </div>
 
-<div style="margin: 5px;float: left;width: 400px;">
+<div class="gallery">
     <img src="images/Tic-Tac-Toe_GamePanel.PNG" width="600" height="400">
 </div>
 <div>
