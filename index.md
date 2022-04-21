@@ -4,7 +4,7 @@
 
 ### GAMES 
 
-<b>[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
+<b style="font-size: 40px;">[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
 <style>
 div.gallery {
