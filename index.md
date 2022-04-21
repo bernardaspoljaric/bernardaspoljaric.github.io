@@ -8,8 +8,7 @@
 <br>
 <style>
 div.gallery {
-  margin: 5px
-  float: left;
+  margin: 5px;
   width: 400px;
 }
 div.gallery img {
@@ -30,7 +29,6 @@ div.gallery img {
   </a>
 </div>
 <div>
-<br>
 <br>
 <b> Unity education | Global Game Jam </b>
 <br>
