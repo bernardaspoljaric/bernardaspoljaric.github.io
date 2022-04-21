@@ -128,11 +128,11 @@ div.gallery img {
 <br>
 <b style="font-size: 25px;">Tic-Tac-Toe</b>
 <br>
-<div style="margin: 5px;float: left;width: 200px;">
+<div style="margin: 5px;float: left;width: 300px;">
     <img src="images/Tic-Tac-Toe.PNG" width="600" height="400">
 </div>
 
-<div style="margin: 5px;float: left;width: 200px;">
+<div style="margin: 5px;float: left;width: 300px;">
     <img src="images/Tic-Tac-Toe_GamePanel.PNG" width="600" height="400">
 </div>
 <div>
