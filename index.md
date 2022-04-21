@@ -3,6 +3,44 @@
 ---
 
 ### GAMES 
+<b style="font-size: 25px;">[PYRAMID ESCAPE](https://bernarda.itch.io/pyramid-escape)</b>
+<br>
+<style>
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 500px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+</style>
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY1LnBuZw==/347x500/Y%2B%2BuvM.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY1LnBuZw==/347x500/Y%2B%2BuvM.png" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY5LnBuZw==/347x500/vzigfI.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY5LnBuZw==/347x500/vzigfI.png" width="600" height="400">
+  </a>
+</div>
+<div>
+<br>
+<b> Unity education at PISMO Novska| Final Project </b>
+<br>
+<b>Project description:</b> Design and development from scratch a 2D platform game for PC, based of Super Marioand Hollow Knight mechanics and dynamics. Project developed by a team of 2 developers.
+<br>
+<b>Gameplay:</b> Pyramid Escape is a fun and easy adventure 2D platform game with educational and historical aspects where little mummy named Milo, who has just woken up from a longsleep, discovers the world of ancient Egypt. Following a comic-like cut scenes playerlearns about Egyptian culture, their gods, afterlife, mummification and so on. Player controls the mummy whose goal is to collect hieroglyphics for player to be able to move to another room what represents completing a level.
+<br>
+<b>Project achievement:</b> Finished on time with presented demo with four levels total.
+<br>
+<b>Roles:</b> Project lead | Game designer | Lead Programmer | Level desiger | Art designer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
 
 <b style="font-size: 25px;">[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
@@ -81,6 +119,42 @@ div.gallery img {
 <b>Roles:</b> Programmer | UI designer
 <br>
 <b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
+  
+<br>
+<b style="font-size: 25px;"> Run, ball, ruuun<b>
+<br>
+<style>
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 500px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+</style>
+<div class="gallery">
+    <img src="images/BallGame_Start.PNG" width="600" height="400">
+</div>
+
+<div class="gallery">
+    <img src="images/BallGame_Gameplay.PNG" width="600" height="400">
+</div>
+<div>
+<br>
+<b> Unity education at PISMO Novska </b>
+<br>
+<b>Project description:</b> Design and development of simple 3D isometric game 
+<br>
+<b>Gameplay:</b> You play as a simple ball with certain amount of health. Your goal is to awoid colorfull ghosts and get them destroyed by hiding behind the obsticles. Beware, after certain amount of points ghosts became faster so it's harder to awoid them. After you lose, you can check the leaderboard and see where you stand in relation to another players.
+<br>
+<b>Project achievement:</b> This project was successfully created in one day.
+<br>
+<b>Roles:</b> Programmer | UI designer | Level desiger | 3D artist
+<br>
+<b>Technologies used:</b> Unity | Visual Studio
 </div>
 
 <br>
