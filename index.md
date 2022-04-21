@@ -124,15 +124,40 @@ div.gallery img {
 <br>
 <b>Technologies used:</b> Unity | Visual Studio
 </div>
+  
+<br>
+<b style="font-size: 25px;">Quiz</b>
+<br>
+<div style="margin: 5px;float: left;width: 400px;">
+    <img src="images/Quiz_Start.PNG" width="600" height="400">
+</div>
+
+<div style="margin: 5px;float: left;width: 400px;">
+    <img src="images/Quiz_Game.PNG" width="600" height="400">
+</div>
+<div>
+<br>
+<b> Unity education at PISMO Novska</b>
+<br>
+<b>Project description: Design and development of mobile game quiz based on historical aspects</b> 
+<br>
+<b>Gameplay:</b> Simple quiz game where the goal is to collect as many points in certain amount of time. You have 3 lifes to begin with, every wrong answer takes one life. At the end you can add your points to leaderboard and compete with another players.
+<br>
+<b>Project achievement:</b> This project was successfully created in one day as a practice.
+<br>
+<b>Roles:</b> Programmer | UI designer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
 
 <br>
 <b style="font-size: 25px;">Tic-Tac-Toe</b>
 <br>
-<div style="margin: 5px;float: left;width: 300px;">
+<div style="margin: 5px;float: left;width: 400px;">
     <img src="images/Tic-Tac-Toe.PNG" width="600" height="400">
 </div>
 
-<div style="margin: 5px;float: left;width: 300px;">
+<div style="margin: 5px;float: left;width: 400px;">
     <img src="images/Tic-Tac-Toe_GamePanel.PNG" width="600" height="400">
 </div>
 <div>
