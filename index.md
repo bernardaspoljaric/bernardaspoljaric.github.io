@@ -89,7 +89,7 @@ div.gallery img {
 <br>
 <b> Unity education at PISMO Novska </b>
 <br>
-<b>Project description: Design and development of simple click game for UI design practice</b> 
+<b>Project description:</b> Design and development of simple click game for UI design practice. 
 <br>
 <b>Gameplay:</b> Simple click game where the goal is to raise population as days go by. Beware of random disasters that may happen during gameplay and destory your progess.
 <br>
@@ -114,7 +114,7 @@ div.gallery img {
 <br>
 <b> Unity education at PISMO Novska </b>
 <br>
-<b>Project description:</b> Design and development of simple 3D isometric game 
+<b>Project description:</b> Design and development of simple 3D isometric game. 
 <br>
 <b>Gameplay:</b> You play as a simple ball with certain amount of health. Your goal is to awoid colorfull ghosts and get them destroyed by hiding behind the obsticles. Beware, after certain amount of points ghosts became faster so it's harder to awoid them. After you lose, you can check the leaderboard and see where you stand in relation to another players.
 <br>
@@ -139,7 +139,7 @@ div.gallery img {
 <br>
 <b> Unity education at PISMO Novska</b>
 <br>
-<b>Project description: Design and development of mobile game quiz based on historical aspects</b> 
+<b>Project description:</b> Design and development of mobile game quiz based on historical aspects. 
 <br>
 <b>Gameplay:</b> Simple quiz game where the goal is to collect as many points in certain amount of time. You have 3 lifes to begin with, every wrong answer takes one life. At the end you can add your points to leaderboard and compete with another players.
 <br>
@@ -164,7 +164,7 @@ div.gallery img {
 <br>
 <b> Unity education at PISMO Novska</b>
 <br>
-<b>Project description: Design and development of well-know mobile game Tic-Tac-Toe for pracitice</b> 
+<b>Project description:</b> Design and development of well-know mobile game Tic-Tac-Toe for pracitice. 
 <br>
 <b>Gameplay:</b> Challenge your friend in the famous Tic-Tac-Toe game, create a series of your three characters and win.
 <br>
