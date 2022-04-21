@@ -30,7 +30,7 @@ div.gallery img {
 </div>
 <div>
 <br>
-<b> Unity education | Global Game Jam </b>
+<b> Unity education at PISMO Novska| Global Game Jam </b>
 <br>
 <b>Project description:</b> Design and development of a game with a given theme "Duality".
 <br>
@@ -70,7 +70,7 @@ div.gallery img {
 </div>
 <div>
 <br>
-<b> Unity education </b>
+<b> Unity education at PISMO Novska </b>
 <br>
 <b>Project description: Design and development of simple click game for UI design practice</b> 
 <br>
@@ -102,25 +102,22 @@ div.gallery img {
 </div>
 
 <div class="gallery">
-    <img src="https://img.itch.zone/aW1hZ2UvMTI1MTk5MS83Mjk5MjA4LnBuZw==/347x500/h1M1yC.png" width="600" height="400">
+    <img src="images/Tic-Tac-Toe_GamePanel.PNG" width="600" height="400">
 </div>
 <div>
 <br>
-<b> Unity education </b>
+<b> Unity education at PISMO Novska</b>
 <br>
-<b>Project description: Design and development of simple click game for UI design practice</b> 
+<b>Project description: Design and development of well-know mobile game Tic-Tac-Toe for pracitice</b> 
 <br>
-<b>Gameplay:</b> Simple click game where the goal is to raise population as days go by. Beware of random disasters that may happen during gameplay and destory your progess.
+<b>Gameplay:</b> Challenge your friend in the famous Tic-Tac-Toe game, create a series of your three characters and win.
 <br>
-<b>Project achievement:</b> This project was successfully created in 5 days period.
+<b>Project achievement:</b> This project was successfully created in 2 days period.
 <br>
 <b>Roles:</b> Programmer | UI designer
 <br>
 <b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
 </div>
-<img src="images/Tic-Tac-Toe.PNG"/>
-<br>
-Mobile game for Android made during Unity education at PISMO Novska
   
 ---
 
