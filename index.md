@@ -9,7 +9,7 @@
 <style>
 div.gallery {
   margin: 5px;
-  width: 400px;
+  width: 200px;
 }
 div.gallery img {
   width: 100%;
