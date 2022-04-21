@@ -6,16 +6,52 @@
 
 <b>[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
-<img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png?raw=true"/>
-<img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png?raw=true"/>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
+    <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png" width="600" height="400">
+  </a>
+</div>
+</body>
+
 <br>
 <b> Unity education | Global Game Jam </b>
 <br>
 <b>Project description:</b> Design and development of a game with a given theme "Duality".
 <br>
-<b>Gameplay:</b> You play as a detective on a case more intense than usual. Use his sharpened,experienced intuition to focus and locate clues that will help unfurl a plot of a killer onthe loose.
+<b>Gameplay:</b> You play as a detective on a case more intense than usual. Use his sharpened,experienced intuition to focus and locate clues that will help unfurl a plot of a killer on the loose.
 <br>
-<b>Project achievement:</b> This game was made in 48h during GGJ2022 held in Novska, Croatia. Project wonsecond place in the competition.
+<b>Project achievement:</b> This game was made in 48h during GGJ2022 held in Novska, Croatia. Project won second place in the competition.
 <br>
 <b>Roles:</b> Programmer
 <br>
