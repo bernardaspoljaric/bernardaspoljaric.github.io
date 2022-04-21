@@ -251,6 +251,30 @@ He sent his angry Snowmans to catch Santa Claus and stophim to deliver presents 
   
 <br>
 <div class="gallery">
+  <img src="images/Collectables.png" alt="Collectables" width="600" height="400">
+  <div class="desc">Collectables design for PYRAMID ESCAPE game.</div>
+</div>
+  
+<br>
+<div class="gallery">
+  <img src="images/DesignAssets.png" alt="DesignAssets" width="600" height="400">
+  <div class="desc">Level design assets for PYRAMID ESCAPE game.</div>
+</div>
+  
+<br>
+<div class="gallery">
+  <img src="images/Platforms.png" alt="Platforms" width="600" height="400">
+  <div class="desc">Platforms design for PYRAMID ESCAPE game.</div>
+</div>
+  
+<br>
+<div class="gallery">
+  <img src="images/WallDecoration.png" alt="Wall" width="600" height="400">
+  <div class="desc">Level design wall art design for PYRAMID ESCAPE game.</div>
+</div>
+  
+<br>
+<div class="gallery">
   <img src="images/Wallpaper.PNG" alt="Wallpaper" width="600" height="400">
   <div class="desc">Game wallpaper design practice.</div>
 </div>
