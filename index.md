@@ -8,6 +8,7 @@
 <br>
 <style>
 div.gallery {
+  margin: 5px
   float: left;
   width: 180px;
 }
@@ -19,16 +20,16 @@ div.gallery img {
 
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
-    <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png" width="600" height="400">
+    <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png" width="1920" height="1080">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png">
-    <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png" width="600" height="400">
+    <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png" width="1920" height="1080">
   </a>
 </div>
-
+<div>>
 <br>
 <br>
 <b> Unity education | Global Game Jam </b>
@@ -42,7 +43,9 @@ div.gallery img {
 <b>Roles:</b> Programmer
 <br>
 <b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
 
+<br>
 <b>[Build The City](https://bernarda.itch.io/build-the-city)<b>
 <br>
 <img src="images/BuildTheCity.PNG?raw=true"/>
