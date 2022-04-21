@@ -8,28 +8,14 @@
 <br>
 <style>
 div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
 div.gallery img {
   width: 100%;
   height: auto;
 }
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
 </style>
-</head>
-<body>
 
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
@@ -42,8 +28,8 @@ div.desc {
     <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png" width="600" height="400">
   </a>
 </div>
-</body>
 
+<br>
 <br>
 <b> Unity education | Global Game Jam </b>
 <br>
