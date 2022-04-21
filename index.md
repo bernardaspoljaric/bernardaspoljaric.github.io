@@ -179,25 +179,66 @@ div.gallery img {
 
 ### LEVEL DESIGN
 
-  <b>[Tag](https://adamas2021.itch.io/tag)</b>
-  <br>
-  <img src="images/Tag.PNG?raw=true"/>
-  <br>
-  This game is made for weekly project with theme "Strange Power-Ups" during the Unity education in "PISMO" incubator,  Novska, Croatia.
-  <br>
-  <b>Task: </b> Level design
+ <b style="font-size: 25px;">[Tag](https://adamas2021.itch.io/tag)</b>
+<br>
+<div class="gallery">
+    <img src="images/Tag.PNG" width="600" height="400">
+</div>
 
-  <b>[Look For Luka](https://loki2379.itch.io/look-for-luka)</b>
-  <br>
-  <img src="https://img.itch.zone/aW1hZ2UvMTM4OTczMi84MDk3NDcwLnBuZw==/347x500/h9if1K.png?raw=true"/>
-  <br>
-  This game is made as a project to represent a potential renovation of a certain part of the town 
-  <br>
-  <b>Task: </b> Level design
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTMwOTYwNC83NjY5Nzc1LnBuZw==/347x500/alVER%2B.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTMwOTYwNC83NjY5Nzc1LnBuZw==/347x500/alVER%2B.png" width="600" height="400">
+  </a>
+</div>
+<div>
+<br>
+<b> Unity education at PISMO Novska| Game Jam Practice </b>
+<br>
+<b>Project description:</b> Design and development of a game with a given theme "Strange Power-Ups".
+<br>
+<b>Gameplay:</b> It's Christmas Eve, Santa Claus and Jack Frost had a small disagreement, so Jack Frostdecided to provoke Santa Claus.
+He sent his angry Snowmans to catch Santa Claus and stophim to deliver presents for Christmas. Santa Claus has to collect as many cookies as he can because they give him motivation to deliver presents for all children around the world. Also,there are Christmas presents all around Christmas Village which contain special Power-Ups for Santa so he can easily escape snowmans and get revenge on Jack Frost.
+<br>
+<b>Project achievement:</b> This game is finished in time as weekly project.
+<br>
+<b>Roles:</b> Level designer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
   
+<br>
+<b style="font-size: 25px;">[Look For Luka](https://loki2379.itch.io/look-for-luka)</b>
+<br>
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTM4OTczMi84MDk3NDcwLnBuZw==/347x500/h9if1K.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTM4OTczMi84MDk3NDcwLnBuZw==/347x500/h9if1K.png" width="600" height="400">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTM4OTczMi84MDk3NDY5LnBuZw==/347x500/fXrUoG.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTM4OTczMi84MDk3NDY5LnBuZw==/347x500/fXrUoG.png" width="600" height="400">
+  </a>
+</div>
+<div>
+<br>
+<b> Unity education at PISMO Novska| Game Jam Practice </b>
+<br>
+<b>Project description:</b> Design and development of a game with a given theme "Renovation of of Novska".
+<br>
+<b>Gameplay:</b> A simple look for hidden objects game made in few days. The main role of this game was to use a certain part of the town and made the game out of it. We made the game to promote that part of the town as the buildings we used were redesigned in a nicer way then they currently are. Main objective is to find all the items (icons) in a short span of time. Items that you have to find are displayed on the left part of the screen. When you find the object, right click on it and you are done. The game can be finished in few minutes (if you are good enough) . Good luck in finding the hidden objects and try to break a timing record.
+<br>
+<b>Project achievement:</b> This game was made in 3 days period. The game won second place in this Game Jam practice.
+<br>
+<b>Roles:</b> Level designer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop | Sweet Home
+</div>
+
+
 
 ---
-### WALLPAPER
+### ART
 <img src="images/Wallpaper.PNG?raw=true"/>
 
 
