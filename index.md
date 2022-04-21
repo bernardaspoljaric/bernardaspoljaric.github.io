@@ -18,13 +18,13 @@ div.gallery img {
 </style>
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY1LnBuZw==/347x500/Y%2B%2BuvM.png">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY1LnBuZw==/347x500/Y%2B%2BuvM.png" width="600" height="400">
+    <img src="images/1.PNG" width="600" height="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY5LnBuZw==/347x500/vzigfI.png">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY5LnBuZw==/347x500/vzigfI.png" width="600" height="400">
+    <img src="images/5.PNG" width="600" height="400">
   </a>
 </div>
 <div>
@@ -165,7 +165,7 @@ div.gallery img {
 div.gallery {
   margin: 5px;
   float: left;
-  width: 500px;
+  width: 200px;
 }
 div.gallery img {
   width: 100%;
