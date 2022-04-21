@@ -244,7 +244,7 @@ He sent his angry Snowmans to catch Santa Claus and stophim to deliver presents 
 ---
 ### ART
   
-<div>
+<div style= "margin: 5px;float: left;width: 200px; height: auto;">
   <img src="images/Milo.png" alt="Character" width="600" height="400">
   <img src="images/Falcon WingsLow.png" alt="Character" width="600" height="400">
   <img src="images/Enemy.png" alt="Character" width="600" height="400">
