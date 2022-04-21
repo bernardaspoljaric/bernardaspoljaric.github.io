@@ -10,7 +10,7 @@
 div.gallery {
   margin: 5px
   float: left;
-  width: 180px;
+  width: 1920px;
 }
 div.gallery img {
   width: 100%;
@@ -29,7 +29,7 @@ div.gallery img {
     <img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png" width="1920" height="1080">
   </a>
 </div>
-<div>>
+<div>
 <br>
 <br>
 <b> Unity education | Global Game Jam </b>
