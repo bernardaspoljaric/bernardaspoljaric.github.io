@@ -1,4 +1,4 @@
-## Portfolio
+## PORTFOLIO
 
 ---
 
@@ -7,10 +7,19 @@
 <b>[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
 <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png?raw=true"/>
+<img src="https://img.itch.zone/aW1hZ2UvMTM4NDIzMS84MDYzMjc3LnBuZw==/347x500/Ym99N3.png?raw=true"/>
 <br>
-This game was made in 48h during Global game Jam 2022 held in Novska, Croatia.
+<b> Unity education | Global Game Jam </b>
 <br>
-<b>Task: </b> Programming
+<b>Project description:</b> Design and development of a game with a given theme "Duality".
+<br>
+<b>Gameplay:</b> You play as a detective on a case more intense than usual. Use his sharpened,experienced intuition to focus and locate clues that will help unfurl a plot of a killer onthe loose.
+<br>
+<b>Project achievement:</b> This game was made in 48h during GGJ2022 held in Novska, Croatia. Project wonsecond place in the competition.
+<br>
+<b>Roles:</b> Programmer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
 
 <b>[Build The City](https://bernarda.itch.io/build-the-city)<b>
 <br>
