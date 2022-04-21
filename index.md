@@ -245,6 +245,14 @@ He sent his angry Snowmans to catch Santa Claus and stophim to deliver presents 
 ### ART
   
 <div class="gallery">
+  <img src="images/Milo.png" alt="Character" width="600" height="400">
+  <img src="images/Falcon WingsLow.png" alt="Character" width="600" height="400">
+  <img src="images/Enemy.png" alt="Character" width="600" height="400">
+  <div class="desc">Character design for PYRAMID ESCAPE game.</div>
+</div>
+  
+<br>
+<div class="gallery">
   <img src="images/Wallpaper.PNG" alt="Wallpaper" width="600" height="400">
   <div class="desc">Game wallpaper design practice.</div>
 </div>
