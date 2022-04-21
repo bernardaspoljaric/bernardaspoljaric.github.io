@@ -42,6 +42,7 @@ div.gallery img {
 <b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
 </div>
 
+<br>
 <b style="font-size: 25px;">[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
 <style>
