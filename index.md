@@ -275,6 +275,12 @@ He sent his angry Snowmans to catch Santa Claus and stophim to deliver presents 
   
 <br>
 <div class="gallery">
+  <img src="images/PyramidEscape Wallpaper.png" alt="Wallpaper" width="600" height="400">
+  <div class="desc">PYRAMID ESCAPE wallpaper.</div>
+</div>
+  
+<br>
+<div class="gallery">
   <img src="images/Wallpaper.PNG" alt="Wallpaper" width="600" height="400">
   <div class="desc">Game wallpaper design practice.</div>
 </div>
