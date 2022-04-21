@@ -4,7 +4,7 @@
 
 ### GAMES 
 
-<b style="font-size: 40px;">[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
+<b style="font-size: 25px;">[R e f l e c t i o n s](https://imt-rexx.itch.io/reflections)</b>
 <br>
 <style>
 div.gallery {
@@ -17,7 +17,6 @@ div.gallery img {
   height: auto;
 }
 </style>
-
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png">
     <img src="https://img.itch.zone/aW1nLzgwNjM1MjIucG5n/original/tpLy3u.png" width="600" height="400">
@@ -45,14 +44,80 @@ div.gallery img {
 </div>
 
 <br>
-<b>[Build The City](https://bernarda.itch.io/build-the-city)<b>
+<b style="font-size: 25px;">[Build The City](https://bernarda.itch.io/build-the-city)<b>
 <br>
-<img src="images/BuildTheCity.PNG?raw=true"/>
-<br>
-This project was created in 5 days period during Unity education at PISMO Novska 
+<style>
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 500px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+</style>
+<div class="gallery">
+  <a target="_blank" href="https://bernarda.itch.io/build-the-city">
+    <img src="images/BuildTheCity.PNG" width="600" height="400">
+  </a>
+</div>
 
-<b>Tic-Tac-Toe</b>
+<div class="gallery">
+  <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTI1MTk5MS83Mjk5MjA4LnBuZw==/347x500/h1M1yC.png">
+    <img src="https://img.itch.zone/aW1hZ2UvMTI1MTk5MS83Mjk5MjA4LnBuZw==/347x500/h1M1yC.png" width="600" height="400">
+  </a>
+</div>
+<div>
 <br>
+<b> Unity education </b>
+<br>
+<b>Project description: Design and development of simple click game for UI design practice</b> 
+<br>
+<b>Gameplay:</b> Simple click game where the goal is to raise population as days go by. Beware of random disasters that may happen during gameplay and destory your progess.
+<br>
+<b>Project achievement:</b> This project was successfully created in 5 days period.
+<br>
+<b>Roles:</b> Programmer | UI designer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
+
+<br>
+<b style="font-size: 25px;">Tic-Tac-Toe</b>
+<br>
+ <style>
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 500px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+</style>
+<div class="gallery">
+    <img src="images/Tic-Tac-Toe.PNG" width="600" height="400">
+</div>
+
+<div class="gallery">
+    <img src="https://img.itch.zone/aW1hZ2UvMTI1MTk5MS83Mjk5MjA4LnBuZw==/347x500/h1M1yC.png" width="600" height="400">
+</div>
+<div>
+<br>
+<b> Unity education </b>
+<br>
+<b>Project description: Design and development of simple click game for UI design practice</b> 
+<br>
+<b>Gameplay:</b> Simple click game where the goal is to raise population as days go by. Beware of random disasters that may happen during gameplay and destory your progess.
+<br>
+<b>Project achievement:</b> This project was successfully created in 5 days period.
+<br>
+<b>Roles:</b> Programmer | UI designer
+<br>
+<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
+</div>
 <img src="images/Tic-Tac-Toe.PNG"/>
 <br>
 Mobile game for Android made during Unity education at PISMO Novska
