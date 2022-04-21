@@ -10,7 +10,7 @@
 div.gallery {
   margin: 5px
   float: left;
-  width: 600px;
+  width: 400px;
 }
 div.gallery img {
   width: 100%;
