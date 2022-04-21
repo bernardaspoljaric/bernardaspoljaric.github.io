@@ -15,6 +15,10 @@ div.gallery img {
   width: 100%;
   height: auto;
 }
+ div.desc {
+  padding: 15px;
+  text-align: center;
+}
 </style>
 <div class="gallery">
   <a target="_blank" href="https://img.itch.zone/aW1hZ2UvMTQxNjczNC84MjUxNjY1LnBuZw==/347x500/Y%2B%2BuvM.png">
@@ -239,7 +243,11 @@ He sent his angry Snowmans to catch Santa Claus and stophim to deliver presents 
 
 ---
 ### ART
-<img src="images/Wallpaper.PNG?raw=true"/>
+  
+<div class="gallery">
+  <img src="images/Wallpaper.PNG" alt="Wallpaper" width="600" height="400">
+  <div class="desc">Game wallpaper design practice.</div>
+</div>
 
 
 
