@@ -153,31 +153,6 @@ div.gallery img {
 <br>
 <b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
 </div>
-
-<br>
-<b style="font-size: 25px;">Tic-Tac-Toe</b>
-<br>
-<div class="gallery">
-    <img src="images/Tic-Tac-Toe.PNG" width="600" height="400">
-</div>
-
-<div class="gallery">
-    <img src="images/Tic-Tac-Toe_GamePanel.PNG" width="600" height="400">
-</div>
-<div>
-<br>
-<b> Unity education at PISMO Novska</b>
-<br>
-<b>Project description:</b> Design and development of well-know mobile game Tic-Tac-Toe for pracitice. 
-<br>
-<b>Gameplay:</b> Challenge your friend in the famous Tic-Tac-Toe game, create a series of your three characters and win.
-<br>
-<b>Project achievement:</b> This project was successfully created in 2 days period.
-<br>
-<b>Roles:</b> Programmer | UI designer
-<br>
-<b>Technologies used:</b> Unity | Visual Studio | Adobe Photoshop
-</div>
   
 ---
 
